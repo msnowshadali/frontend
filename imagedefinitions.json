@@ -1,0 +1,6 @@
+[
+  {
+    "name": "backend-container",
+    "imageUri": "msnowshadali/frontend:latest"
+  }
+]
